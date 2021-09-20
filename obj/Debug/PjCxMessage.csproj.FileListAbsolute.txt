@@ -12,3 +12,10 @@ C:\Users\uJão\Desktop\Programação\Escola\C#\PjCxMessage\obj\Debug\PjCxMessage
 C:\Users\uJão\Desktop\Programação\Escola\C#\PjCxMessage\obj\Debug\PjCxMessage.csproj.GenerateResource.Cache
 C:\Users\uJão\Desktop\Programação\Escola\C#\PjCxMessage\obj\Debug\PjCxMessage.exe
 C:\Users\uJão\Desktop\Programação\Escola\C#\PjCxMessage\obj\Debug\PjCxMessage.pdb
+C:\Users\uJão\Desktop\Programação\GitHub\C#\message-box\bin\Debug\PjCxMessage.exe
+C:\Users\uJão\Desktop\Programação\GitHub\C#\message-box\bin\Debug\PjCxMessage.pdb
+C:\Users\uJão\Desktop\Programação\GitHub\C#\message-box\obj\Debug\PjCxMessage.csprojResolveAssemblyReference.cache
+C:\Users\uJão\Desktop\Programação\GitHub\C#\message-box\obj\Debug\PjCxMessage.MainForm.resources
+C:\Users\uJão\Desktop\Programação\GitHub\C#\message-box\obj\Debug\PjCxMessage.csproj.GenerateResource.Cache
+C:\Users\uJão\Desktop\Programação\GitHub\C#\message-box\obj\Debug\PjCxMessage.exe
+C:\Users\uJão\Desktop\Programação\GitHub\C#\message-box\obj\Debug\PjCxMessage.pdb
